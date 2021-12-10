@@ -1,6 +1,6 @@
 import React from "react";
 import Avatar from "./Avatar";
-//import { getGender } from "../Utils/getGender";
+
 
 const getGender = {
 	male: "Мужской",
